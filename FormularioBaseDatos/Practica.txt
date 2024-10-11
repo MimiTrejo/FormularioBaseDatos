@@ -1,0 +1,64 @@
+Nombres: Yair
+Apellidos: gonzalez
+Edad: 56 anos
+Estatura: 1.35
+Telefono: 1234567890
+Genero: Mujer
+
+
+Nombres: Ximena
+Apellidos: Rossette
+Edad: 19 anos
+Estatura: 1.68
+Telefono: 9615578642
+Genero: Mujer
+
+
+Nombres: Ximena
+Apellidos: Rossette
+Edad: 19 anos
+Estatura: 1.68
+Telefono: 9614826657
+Genero: Mujer
+
+
+Nombres: luis
+Apellidos: sanchz
+Edad: 19 anos
+Estatura: 1.25
+Telefono: 9192056807
+Genero: Hombre
+
+
+Nombres: luis
+Apellidos: sanchez
+Edad: 19 anos
+Estatura: 1.23
+Telefono: 9192056807
+Genero: Hombre
+
+
+Nombres: viany
+Apellidos: hernandez
+Edad: 25 anos
+Estatura: 1.60
+Telefono: 9612011454
+Genero: Mujer
+
+
+Nombres: ambat
+Apellidos: trejo
+Edad: 19 anos
+Estatura: 1.59
+Telefono: 1234567890
+Genero: Mujer
+
+
+Nombres: vanessa
+Apellidos: morga
+Edad: 19 anos
+Estatura: 1.63
+Telefono: 9612011454
+Genero: Mujer
+
+
